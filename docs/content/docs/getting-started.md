@@ -34,7 +34,7 @@ This file is composed of two sections:
 The first part (between the 3 dashes ``---``) contains page metadata.  
 You can store anything you want.
 It's by default a
-[YAML section](https://en.wikipedia.org/wiki/YAML#Sample_document),
+[YAML section](https://en.wikipedia.org/wiki/YAML#Example),
 but you can use
 [other formats like JSON, TOML, JavaScript...](https://www.npmjs.com/package/gray-matter#highlights).
 
