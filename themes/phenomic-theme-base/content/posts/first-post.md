@@ -12,7 +12,7 @@ Code is highlighted by default.
 const StatelessComponent = (props) => {
   return (
     <div>
-      I'am a stateless component that accept children
+      I am a stateless component that accepts children
       { props.children }
     </div>
   )
